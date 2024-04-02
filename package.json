@@ -1,12 +1,18 @@
 {
   "name": "tell-nickname",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a simple bot that tells you your nickname for some specific person.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/animesh-0041/tell-nickname.git"
+  },
+  "keywords": ["nickname"],
+  "author": "Animesh",
+  "license": "ISC",
+  "homepage": "https://github.com/animesh-0041/tell-nickname#readme"
+
 }
