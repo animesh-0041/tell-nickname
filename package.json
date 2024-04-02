@@ -1,6 +1,6 @@
 {
   "name": "tell-nickname",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a simple bot that tells you your nickname for some specific person.",
   "main": "index.js",
   "scripts": {
